@@ -2,10 +2,14 @@
 ## Change the values as needed.
 title: KimKast
 email: fhsp1245@naver.com
+
 description: "A jekyll theme implementing material design by using muicss."
 keywords: "jekyll, theme, material, muicss"
+
 #url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
-url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
+
+url: "http://bitwiser.in/bitwiser-material" 
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 5
 paginate_path: "page:num"
@@ -16,9 +20,9 @@ sass:
   sass_dir: _sass
   style: :compressed
 links:
-  facebook: brijeshb42
-  twitter: brijeshb42
-  email: brijeshb42@gmail.com
+  facebook: fhsp1245
+  twitter: None
+  email: fhsp1245@naver.com
   github: brijeshb42/bitwiser-material/
 exclude:
   - bower_components
@@ -26,7 +30,8 @@ exclude:
 full_name: Brijesh
 
 ##set this to enable disqus commenting
-disqus: bitwiser
+
+#disqus: KimKast
 
 ##set this to enable google analytics
 #ga_id: analyticsID
