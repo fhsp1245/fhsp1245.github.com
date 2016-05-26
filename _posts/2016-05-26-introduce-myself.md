@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Introdece Myself"
+title:  "Introduce Myself"
 date:   2016-05-26 23:15:00 +0900
 categories: jekyll update
 ---
-#####제 이름은 김용규입니다.
+`제 이름은 김용규입니다.`
 천안 병천에 있는 **한국기술교육대학교 2학년** 재학중이고,  
 **컴퓨터 공학**을 공부하고 있습니다.
 
