@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introdece Myself"
-date:   2016-05-26 23:15:00+0700
+date:   2016-05-26 23:15:00 +0900
 categories: jekyll update
 ---
 제 이름은 김용규입니다.
