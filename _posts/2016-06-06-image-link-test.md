@@ -12,5 +12,5 @@ tags:
  - carte
  - noire
 ---
-![Alt Text](https://github.com/fhsp1245/higit/blob/master/Izzet_Logo.png "Logo")
+![Izzet_Logo.png](https://github.com/fhsp1245/higit/blob/master/Izzet_Logo.png "Logo")
 this is test post
